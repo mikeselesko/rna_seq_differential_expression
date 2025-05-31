@@ -1,0 +1,7 @@
+# ignore data and plots folders
+data/
+plots/
+
+# ignore virtual environment
+rnaseq-env
+
